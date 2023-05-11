@@ -1,4 +1,4 @@
-# Console appp
+# Console app
 
 O objetivo dessa app foi o de demonstrar a construcao de uma app simples
 com boas praticas para utilização de testes unitários.
@@ -7,7 +7,7 @@ com boas praticas para utilização de testes unitários.
 Foram feitas certas implementacoes com adição de testes unitários
 
 
-#####Teste .Net Core / Node.js
+### Teste .Net Core / Node.js
 
 ##### 1	Propósito
 
