@@ -1,17 +1,23 @@
-# LocalizaWebAPI
+# Console appp
+
+O objetivo dessa app foi o de demonstrar a construcao de uma app simples
+com boas praticas para utilização de testes unitários.
+
+##### O enunciado original foi retirado de um teste de programação da empresa Localiza, mas
+Foram feitas certas implementacoes com adição de testes unitários
 
 
-Teste .Net Core / Node.js
+#####Teste .Net Core / Node.js
 
-1	Propósito
+##### 1	Propósito
 
 O Objetivo do teste proposto é avaliar as competências técnicas dos candidatos a posições de Software Engineer da Unidas.
 
-2	O problema 
+##### 2	O problema 
 Construa uma aplicação que exponha uma api web que valide se uma senha é válida.
 Você tem a liberdade de construir da maneira que julgar mais adequada, desde que se atente ao conjunto de regras e ao que se espera como entregável.
 
-2.1	Regras:
+##### 2.1	Regras:
 
 Escreva sua solução usando C# (.net core) ou Nodejs.
 
@@ -36,15 +42,10 @@ IsValid("AcZp7*baAr") // false
 IsValid("AcZp7 bar") // false
 IsValid("AcZp7*bar") // true
 
-2.2	O que avaliaremos
+##### 2.2	O que avaliaremos
 
-•	Testes de unidade / integração
 •	Abstração, acoplamento, extensibilidade e coesão
 •	Design de API
 •	Clean Code
 •	SOLID
 
-3	Entregáveis
-•	Repositório git contendo o código.
-•	URL da API, rodando em alguma plataforma.
-•	Documentação da solução no README – contendo as instruções para execução do projeto.
